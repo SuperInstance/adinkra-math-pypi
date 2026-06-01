@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adinkra-math"
+version = "0.1.0"
+description = "West African Adinkra symbolic encoding and SUSY adinkras for data scientists"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [{name = "SuperInstance"}]
+keywords = ["adinkra", "supersymmetry", "symbolic-encoding", "topology", "math"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.urls]
+Homepage = "https://github.com/SuperInstance/adinkra-math-pypi"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
