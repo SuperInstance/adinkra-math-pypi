@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/adinkra_math.egg-info/PKG-INFO
+src/adinkra_math.egg-info/SOURCES.txt
+src/adinkra_math.egg-info/dependency_links.txt
+src/adinkra_math.egg-info/top_level.txt
+src/adinkramath/__init__.py
+src/adinkramath/encoding.py
+src/adinkramath/glyph.py
+src/adinkramath/supersymmetry.py
+src/adinkramath/symbol.py
+src/adinkramath/topology.py
+tests/test_all.py

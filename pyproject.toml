@@ -13,7 +13,6 @@ authors = [{name = "SuperInstance"}]
 keywords = ["adinkra", "supersymmetry", "symbolic-encoding", "topology", "math"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Topic :: Scientific/Engineering :: Mathematics",
 ]
 
