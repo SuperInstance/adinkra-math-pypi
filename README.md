@@ -2,6 +2,10 @@
 
 > West African Adinkra symbols as a mathematical framework — symbolic encoding, topology, supersymmetry, and machine learning.
 
+<p align="center">
+  <img src="assets/images/hero.jpg" width="680" alt="A lamplit desk where carved symbols rest linked by brass lines — meaning compressed into geometry, one glyph glowing">
+</p>
+
 ## What This Does
 
 `adinkra-math` implements the mathematics inspired by Adinkra symbols — the visual symbols of the Ashanti people of West Africa. It provides symbolic encoding of concepts as geometric primitives, glyph composition with invariant preservation, topological analysis (Euler characteristic, genus), supersymmetry Adinkra graphs (Boson-Fermion classification with chromotopology verification), and basic ML operations (kNN, K-means) on symbol vectors. Use it for symbolic AI, topological data analysis, physics simulations, or cultural math education.
